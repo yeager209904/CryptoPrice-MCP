@@ -1,0 +1,12 @@
+{
+  "name": "crypto-price-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.10.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.22.4"
+  }
+} 
